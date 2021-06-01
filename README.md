@@ -1,6 +1,6 @@
 # ALX PRE-COURSE
 
-##Students are required to do the following for this project:
+## Students are required to do the following for this project:
 1. Create and setup Git and Github account.
 2. Be able to reproduce and understand the following commands:
    * git clone <repo>
